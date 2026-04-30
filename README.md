@@ -1,6 +1,5 @@
-# Название проекта (например, Weather Diary)
+# Название проекта
 **Автор:** Безбородов Дмитрий Вячеславович
-**Вариант:** №1 Weather Diary
 **Дата сдачи:** 30.04.2026
 ---
 ## Описание программы
@@ -27,6 +26,6 @@
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/yourusername/random-password-generator.git
-cd random-password-generator
+git clone https://github.com/db110353-sketch/BookTracker3.git
+cd BookTracker3
 python main.py
